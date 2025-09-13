@@ -15,11 +15,20 @@
 🧰 **Tech Stack**
 
 ```bash
-Programming Languages & MLOps: Python, C++, SQL, R, Docker, Git, GitHub Actions, MLflow, FastAPI
-Generative AI & LLMs: RAG, LangChain, LlamaIndex, FAISS, LoRA, PEFT, SFT, LLMOps, BM25+dense 
-Cloud Platforms: Azure (Azure Functions, Azure OpenAI, Azure ML), GCP (Vertex AI, Bigtable, BigQuery)
-Data Platform & Databases: MySQL, MongoDB, Databricks (PySpark), Azure Data Lake, Synapse, Power BI
-AI/ML Frameworks & Libraries:PyTorch, TensorFlow, Keras, HF Transformers, LSTM, Scikit-learn, XGBoost 
+### 💻 Programming Languages & MLOps  
+`Python` · `C++` · `SQL` · `R` · `Docker` · `Git` · `GitHub Actions` · `MLflow` · `FastAPI` · `Streamlit` · `Airflow`
+
+### 🧠 Generative AI & LLMOps  
+`RAG` · `LangChain` · `LlamaIndex` · `FAISS` · `BM25 + Dense` · `LoRA` · `PEFT` · `SFT` · `LLMOps` · `llama.cpp` · `gguf`
+
+### ☁️ Cloud Platforms & Serverless  
+`Azure` (Functions, OpenAI, ML, Data Lake, Synapse) · `GCP` (Vertex AI, Bigtable, BigQuery) · `Databricks`
+
+### 🗃️ Data Engineering & Analytics  
+`PySpark` · `Azure Data Factory` · `MySQL` · `MongoDB` · `Power BI` · `Pandas` · `NumPy`
+
+### 🔬 AI/ML Frameworks & Libraries  
+`PyTorch` · `TensorFlow` · `Keras` · `HuggingFace Transformers` · `Scikit-learn` · `XGBoost` · `LightGBM` · `LSTM`
 ```
 
 ---
@@ -46,7 +55,7 @@ AI/ML Frameworks & Libraries:PyTorch, TensorFlow, Keras, HF Transformers, LSTM, 
 📫 **Let’s Connect**
 
 - 🌐 [LinkedIn](https://linkedin.com/in/shushant-ai)
-- 📬 shushantkumar164@email.com
+- 📬 shushantkumar164@gmail.com
 
 ---
 
