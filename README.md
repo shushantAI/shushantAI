@@ -15,20 +15,36 @@
 🧰 **Tech Stack**
 
 ```bash
-### 💻 Programming Languages & MLOps  
-`Python` · `C++` · `SQL` · `R` · `Docker` · `Git` · `GitHub Actions` · `MLflow` · `FastAPI` · `Streamlit` · `Airflow`
+### 🖥️ Programming Languages & MLOps  
+- **Languages:** `Python`, `C++`, `SQL`, `R`  
+- **MLOps & Tools:** `Docker`, `Git`, `GitHub Actions`, `MLflow`, `FastAPI`, `Streamlit`, `Airflow`
+
+---
 
 ### 🧠 Generative AI & LLMOps  
-`RAG` · `LangChain` · `LlamaIndex` · `FAISS` · `BM25 + Dense` · `LoRA` · `PEFT` · `SFT` · `LLMOps` · `llama.cpp` · `gguf`
+- **Frameworks:** `LangChain`, `LlamaIndex`, `llama.cpp`, `HuggingFace`  
+- **Techniques:** `RAG`, `LoRA`, `PEFT`, `SFT`, `LLMOps`  
+- **Vector Search:** `FAISS`, `BM25 + Dense Retrieval`
+
+---
 
 ### ☁️ Cloud Platforms & Serverless  
-`Azure` (Functions, OpenAI, ML, Data Lake, Synapse) · `GCP` (Vertex AI, Bigtable, BigQuery) · `Databricks`
+- **Azure:** `Azure Functions`, `Azure OpenAI`, `Azure ML`, `Data Lake`, `Synapse`  
+- **GCP:** `Vertex AI`, `Bigtable`, `BigQuery`  
+- **Other:** `Databricks`
 
-### 🗃️ Data Engineering & Analytics  
-`PySpark` · `Azure Data Factory` · `MySQL` · `MongoDB` · `Power BI` · `Pandas` · `NumPy`
+---
 
-### 🔬 AI/ML Frameworks & Libraries  
-`PyTorch` · `TensorFlow` · `Keras` · `HuggingFace Transformers` · `Scikit-learn` · `XGBoost` · `LightGBM` · `LSTM`
+### 📊 Data Engineering & Analytics  
+- **Processing:** `PySpark`, `Azure Data Factory`  
+- **Databases:** `MySQL`, `MongoDB`  
+- **BI & Analytics:** `Power BI`, `Pandas`, `NumPy`
+
+---
+
+### 🧪 AI/ML Frameworks & Libraries  
+- `PyTorch`, `TensorFlow`, `Keras`, `HuggingFace Transformers`  
+- `Scikit-learn`, `XGBoost`, `LightGBM`, `LSTM`
 ```
 
 ---
