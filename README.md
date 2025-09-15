@@ -70,7 +70,7 @@
 
 📫 **Let’s Connect**
 
-- 🌐 [LinkedIn](https://linkedin.com/in/shushant-ai)
+- 🌐 [LinkedIn](https://linkedin.com/in/shushant-tiwari-ai)
 - 📬 shushantkumar164@gmail.com
 
 ---
